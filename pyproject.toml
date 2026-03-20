@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "saorikikuchi.github.io"
+version = "0.1.0"
+description = ""
+authors = ["Saori Kikuchi <229769971+saorikikuchi@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
