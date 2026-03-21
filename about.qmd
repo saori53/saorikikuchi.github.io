@@ -3,3 +3,6 @@ title: "About"
 ---
 
 About this site
+# About Me
+
+Hello! My name is Saori 
