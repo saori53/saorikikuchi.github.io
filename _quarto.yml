@@ -10,11 +10,25 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - research.qmd
+        text: Research
+      - saorikikuchi_system_info.qmd
+        text: Assignment 01
+
+    right:    
+      - icon: github
+        href:https://github.com/saorikikuchi
+        aria-label: GitHub
+  page-footer:
+    center: "Copyright © 2024 Saori Kikuchi. All rights reserved."      
+
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+
+    
 
 
 
