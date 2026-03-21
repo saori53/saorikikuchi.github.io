@@ -1,12 +1,4 @@
 ---
-title: "."
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
----
 title: "Saori Kikuchi Portfolio"
 ---
 
@@ -14,8 +6,8 @@ title: "Saori Kikuchi Portfolio"
 
 Hello! My name is Saori Kikuchi.
 
-I am currently studying data analytics and have a background in accounting. I am interested in business analytics and AI.
+I am currently studying data analytics and have a background in accounting.
 
-## About Me
+## About This Website
 
-I am learning Python, data analysis, and cloud computing using AWS EC2. This website is created using Quarto and GitHub Pages.
+This website was created using Quarto and GitHub Pages.
